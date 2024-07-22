@@ -3,8 +3,8 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"mal/src/printer"
-	"mal/src/reader"
+	"mal/printer"
+	"mal/reader"
 	"os"
 )
 
